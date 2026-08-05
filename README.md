@@ -1,4 +1,11 @@
 # 🩺 Chronic Kidney Disease Prediction
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A Machine Learning project that predicts Chronic Kidney Disease (CKD) using patient medical data.
 
