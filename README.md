@@ -49,6 +49,6 @@ streamlit run app.py
 
 GitHub: https://github.com/ameerrhamza091
 
-LinkedIn: (Coming Soon)
+LinkedIn: (https://www.linkedin.com/in/ameerhamzaaa/)
 
 ⭐ If you like this project, please give it a Star.
